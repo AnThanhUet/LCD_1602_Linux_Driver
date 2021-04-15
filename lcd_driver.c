@@ -15,7 +15,7 @@
 #include <linux/delay.h> /*delay*/
 #include "lcd_driver.h"
 
-#define DRIVER_AUTHOR "AnhBV-DiemPV"
+#define DRIVER_AUTHOR "Annt"
 #define DRIVER_VERSION "1.0"
 #define DRIVER_DESC "The character device driver for LCD 16x02 HD44780"
 // ********* Linux driver Constants ******************************************************************
