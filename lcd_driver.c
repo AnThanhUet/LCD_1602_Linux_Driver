@@ -1,9 +1,4 @@
-/*
- * Filename: lcd_driver.c
- * Date: 11/11/2019
- * Description: character driver for a LCD 16x02 device
- * Author: VietAnh Bui
- */
+
 #include <linux/module.h>  /* Define module_init(), module_exit()*/
 #include <linux/fs.h>	  /*contain function allocate/free device number*/
 #include <linux/device.h>  /*contain function for creating device file*/
