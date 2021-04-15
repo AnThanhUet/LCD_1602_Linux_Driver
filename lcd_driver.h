@@ -1,9 +1,4 @@
-/*
- * Filename: lcd_driver.h
- * Date: 12/11/2019
- * Description: header file for driver
- * Author: VietAnh Bui
- */
+
 #ifndef _LCD_DRIVER_H_
 #define _LCD_DRIVER_H_
 
