@@ -1,9 +1,4 @@
-/*
- * Filename: lcd_lib.h
- * Date: 14/11/2019
- * Description: header file for LCD library use LCD Driver
- * Author: VietAnh Bui
- */
+
 #ifndef _LCD_LIB_H_
 #define _LCD_LIB_H_
 #include <stdio.h>
